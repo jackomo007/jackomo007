@@ -1,4 +1,9 @@
-### Hi there 👋
+<p align="center"><img width="700" height ="300" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1579397885/ipalo7abswainxpebxki.png"></p>
+
+### 👋 Greetings, welcome, I hope that with my projects you learn something new or serve as inspiration to build something great. 
+### 🔭📱💻 I’m currently working with Ionic and Angular
+### 🌱🐉 I’m currently learning aboute Deno 
+### 🎯 I would like to learn Flutter 
 
 <!--
 **jackomo007/jackomo007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
