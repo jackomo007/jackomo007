@@ -2,8 +2,8 @@
 
 ### 👋 Greetings, welcome, I hope that with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭📱💻 I’m currently working with Ionic and Angular
-### 🌱🐉 I’m currently learning aboute Deno 
-### 🎯 I would like to learn Flutter 
+### 🌱🐉 I’m currently learning about...  <img title="Deno" alt="deno" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" />
+### 🎯 I would like to learn... <img title="Flutter" alt="flutter" width="22px" src="https://diegolaballos.com/files/images/flutter-icon.jpg" />
 
 ### Languages:
 <img align="left" title="Php" alt="php" width="22px" src="https://img.icons8.com/windows/32/000000/php-logo.png" />
