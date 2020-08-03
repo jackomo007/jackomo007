@@ -5,17 +5,34 @@
 ### 🌱🐉 I’m currently learning aboute Deno 
 ### 🎯 I would like to learn Flutter 
 
-<!--
-**jackomo007/jackomo007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Languages:
+<img align="left" title="Php" alt="php" width="22px" src="https://img.icons8.com/windows/32/000000/php-logo.png" />
+<img align="left" title="Javascript" alt="javascript" width="22px" src="https://img.icons8.com/color/48/000000/javascript.png" />
+<img align="left" title="Python" alt="python" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />
 
-Here are some ideas to get you started:
+</br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frameworks:
+<img align="left" title="Laravel" alt="laravel" width="22px" src="https://img.icons8.com/windows/50/000000/laravel.png" />
+<img align="left" title="Vue" alt="vue" width="22px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
+<img align="left" title="Angular" alt="angular" width="22px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
+<img align="left" title="React" alt="react" width="22px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
+
+</br>
+
+### Mobile:
+<img align="left" title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
+<img align="left" title="React Native" alt="React Native" width="22px" src="https://img.icons8.com/color/48/000000/react-native.png" />
+
+</br>
+
+### Databases:
+<img align="left" title="MySQL" alt="MySQL" width="22px" src="https://img.icons8.com/ios-filled/50/000000/mysql-logo.png" />
+<img align="left" title="Postgresql" alt="Postgresql" width="22px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
+<img align="left" title="MongoDB" alt="MongoDB" width="22px" src="https://img.icons8.com/color/48/000000/mongodb.png" />
+
+</br>
+
+### You can find me here:
+<a href="https://www.facebook.com/JEAL47" target="_blank"><img align="left" title="Facebook" alt="facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" /></a>
+<a href="https://www.linkedin.com/in/jose-prieto-developer" target="_blank"><img align="left" title="Linkedin" alt="linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" /></a>
