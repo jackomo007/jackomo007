@@ -2,8 +2,8 @@
 
 ### 👋 Greetings and welcome, i hope that with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with <img title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
-### 🌱 I’m currently learning about <img title="Deno" alt="deno" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Deno.svg" /> & <img title="Deno" alt="deno" width="22px" src="https://d29fhpw069ctt2.cloudfront.net/icon/image/38568/preview.svg" />
-### 🎯 I would like to learn <img title="Flutter" alt="flutter" width="22px" src="https://diegolaballos.com/files/images/flutter-icon.jpg" />
+### 🌱 I’m currently learning about <img title="Laravel 7" alt="Laravel 7" width="22px" src="https://img.icons8.com/ios-filled/2x/laravel.png" />
+### 🎯 I would like to learn <img title="Flutter" alt="flutter" width="22px" src="https://diegolaballos.com/files/images/flutter-icon.jpg" /> & <img title="Dart" alt="dart" width="22px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg" />
 
 ### Languages:
 <img align="left" title="Php" alt="php" width="22px" src="https://img.icons8.com/windows/32/000000/php-logo.png" />
