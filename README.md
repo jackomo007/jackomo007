@@ -33,6 +33,12 @@
 
 </br>
 
+### Data Query:
+<img align="left" title="Apollo" alt="Apollo" width="22px" src="https://dimitr.im/static/b876b338c35d14291bff2641e50262b6/ff9b8/apollo.png" />
+<img align="left" title="GraphQL" alt="GraphQL" width="22px" src="https://camo.githubusercontent.com/1dae7db18ee88a998c9b237c0d33f9c2c71f748f/68747470733a2f2f692e696d6775722e636f6d2f6254373670585a2e706e67" />
+
+</br>
+
 ### You can find me here:
 <a href="https://www.facebook.com/JEAL47" target="_blank"><img align="left" title="Facebook" alt="facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" /></a>
 <a href="https://www.linkedin.com/in/jose-prieto-developer" target="_blank"><img align="left" title="Linkedin" alt="linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" /></a>
