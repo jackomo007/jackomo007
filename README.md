@@ -2,7 +2,7 @@
 
 ### 👋 Greetings and welcome, i hope that with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with <img title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
-### 🌱 I’m currently learning about <img title="NEXT-JS" alt="NEXT-JS" width="22px" style="border-radius=100%" src="https://miro.medium.com/max/875/1*htbUdWgFQ3a94PMEvBr_hQ.png" />
+### 🌱 I’m currently learning about <img title="NEXT-JS" alt="NEXT-JS" width="22px" src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" />
 ### 🎯 I would like to learn <img title="Flutter" alt="flutter" width="22px" src="https://diegolaballos.com/files/images/flutter-icon.jpg" /> & <img title="Dart" alt="dart" width="22px" src="https://pbs.twimg.com/profile_images/993555605078994945/Yr-pWI4G_400x400.jpg" />
 
 ### Languages:
