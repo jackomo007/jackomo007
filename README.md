@@ -22,6 +22,7 @@
 ### Mobile:
 <img align="left" title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
 <img align="left" title="React Native" alt="React Native" width="22px" src="https://img.icons8.com/color/48/000000/react-native.png" />
+<img align="left" title="Quasar" alt="Quasar" width="22px" src="https://forum.quasar-framework.org/assets/uploads/profile/1-profileavatar.png" />
 <img align="left" title="Flutter" alt="Flutter" width="22px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 
 </br>
