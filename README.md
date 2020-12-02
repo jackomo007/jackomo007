@@ -15,7 +15,7 @@
 <img align="left" title="Laravel" alt="laravel" width="22px" src="https://img.icons8.com/windows/50/000000/laravel.png" />
 <img align="left" title="Vue" alt="vue" width="22px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 <img align="left" title="Angular" alt="angular" width="22px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
-<img align="left" title="React" alt="react" width="22px" src="https://img.icons8.com/plasticine/100/000000/react.png" />
+<img align="left" title="NEXTJS" alt="nextjs" width="22px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/square_256/nextjs.png" />
 
 </br>
 
