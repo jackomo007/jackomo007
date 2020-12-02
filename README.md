@@ -8,6 +8,7 @@
 <img align="left" title="Php" alt="php" width="22px" src="https://img.icons8.com/windows/32/000000/php-logo.png" />
 <img align="left" title="Javascript" alt="javascript" width="22px" src="https://img.icons8.com/color/48/000000/javascript.png" />
 <img align="left" title="Python" alt="python" width="22px" src="https://img.icons8.com/color/48/000000/python.png" />
+<img align="left" title="Dart" alt="dart" width="22px" src="https://img.icons8.com/color/48/000000/dart.png" />
 
 </br>
 
