@@ -17,7 +17,6 @@
 <img align="left" title="Vue" alt="vue" width="22px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 <img align="left" title="Angular" alt="angular" width="22px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
 <img align="left" title="NEXTJS" alt="nextjs" width="22px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/square_256/nextjs.png" />
-<img title="Vue Native" alt="vue-native" width="22px" src="https://vue-native.io/images/logo.png" />
 
 </br>
 
