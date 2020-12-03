@@ -2,7 +2,7 @@
 
 ### 👋 Greetings and welcome, i hope that with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with <img title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
-### 🌱 I’m currently learning about  <img title="Flutter" alt="flutter" width="22px" src="https://img.icons8.com/color/48/000000/flutter.png" /> 
+### 🌱 I’m currently learning about  <img title="Flutter" alt="flutter" width="22px" src="https://img.icons8.com/color/48/000000/flutter.png" /> & <img title="Vue Native" alt="vue-native" width="22px" src="https://vue-native.io/images/logo.png" /> 
 
 ### Languages:
 <img align="left" title="Php" alt="php" width="22px" src="https://img.icons8.com/windows/32/000000/php-logo.png" />
@@ -17,14 +17,16 @@
 <img align="left" title="Vue" alt="vue" width="22px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 <img align="left" title="Angular" alt="angular" width="22px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
 <img align="left" title="NEXTJS" alt="nextjs" width="22px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/square_256/nextjs.png" />
+<img title="Vue Native" alt="vue-native" width="22px" src="https://vue-native.io/images/logo.png" />
 
 </br>
 
-### Mobile:
+### Cross Platform:
 <img align="left" title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
 <img align="left" title="React Native" alt="React Native" width="22px" src="https://img.icons8.com/color/48/000000/react-native.png" />
 <img align="left" title="Quasar" alt="Quasar" width="22px" src="https://forum.quasar-framework.org/assets/uploads/profile/1-profileavatar.png" />
 <img align="left" title="Flutter" alt="Flutter" width="22px" src="https://img.icons8.com/color/48/000000/flutter.png" />
+<img title="Vue Native" alt="vue-native" width="22px" src="https://vue-native.io/images/logo.png" />
 
 </br>
 
