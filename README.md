@@ -1,4 +1,4 @@
-<p align="center"><img width="700" height ="300" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1579397885/ipalo7abswainxpebxki.png"></p>
+<p align="center"><img width="700" height ="300" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1609026547/v6n1mafwl5cw53bmmt7u.jpg"></p>
 
 ### 👋 Greetings and welcome, i hope that with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with <img title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/000000/ionic.png" />
