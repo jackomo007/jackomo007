@@ -3,7 +3,7 @@
 ### 👋 Greetings and welcome, i hope that with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with <img title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/468BFF/ionic.png" />
 ### 🌱 I’m currently learning about  <img title="Flutter" alt="flutter" width="22px" src="https://img.icons8.com/color/48/000000/flutter.png" />
-### 🎯 My goal to learn the next year will be  <img title="Kotlin" alt="kotlin" width="22px" src="https://img.icons8.com/color/48/000000/kotlin.png" />
+### 🎯 My goal to learn the next year will be  <img title="Swift" alt="swift" width="22px" src="https://img.icons8.com/color/48/000000/swift.png" />
 
 ### Languages:
 <img align="left" title="Php" alt="php" width="22px" src="https://img.icons8.com/windows/32/8993C0/php-logo.png" />
