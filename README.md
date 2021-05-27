@@ -43,6 +43,17 @@
 
 </br>
 
+### Tests:
+<img align="left" title="Jest&Enzyme" alt="Jest&Enzyme" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1m0e6hPOrO5yYSvRjYEwB-FT2tcB9zC5URCm7fM4CF-tDtwaK07wW3tUd9zQKOFf1q8&usqp=CAU" />
+
+</br>
+
+### Another Tools:
+<img align="left" title="Babel" alt="Babel" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMTaDdKGrfuQKZZk-m4IFpxFhEpY_JC_mZw&usqp=CAU" />
+<img align="left" title="Webpack" alt="Webpack" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYd4-M-7PM4Vk9F1q_nsZG3v9lZk4kJN6KA&usqp=CAU" />
+
+</br>
+
 ### You can find me here:
 <a href="https://www.facebook.com/JEAL47" target="_blank"><img align="left" title="Facebook" alt="facebook" width="22px" src="https://img.icons8.com/fluent/48/000000/facebook-new.png" /></a>
 <a href="https://www.linkedin.com/in/jose-prieto-developer" target="_blank"><img align="left" title="Linkedin" alt="linkedin" width="22px" src="https://img.icons8.com/color/48/000000/linkedin-circled.png" /></a>
