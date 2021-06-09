@@ -45,7 +45,7 @@
 
 ### Tests:
 <img align="left" title="Jest&Enzyme" alt="Jest&Enzyme" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1m0e6hPOrO5yYSvRjYEwB-FT2tcB9zC5URCm7fM4CF-tDtwaK07wW3tUd9zQKOFf1q8&usqp=CAU" />
-
+<img align="left" title="Testing Library" alt="Testing Library" width="70px" src="https://miro.medium.com/max/1000/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" />
 </br>
 
 ### Another Tools:
