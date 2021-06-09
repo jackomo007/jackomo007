@@ -30,6 +30,12 @@
 
 </br>
 
+### Microfrontends:
+<img align="left" title="Webpack" alt="Webpack" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYd4-M-7PM4Vk9F1q_nsZG3v9lZk4kJN6KA&usqp=CAU" />
+<img align="left" title="SingleSPA" alt="SingleSPA" width="120px" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1623247016/dudahviqalyvx6rkuva6.png" />
+
+</br>
+
 ### Databases:
 <img align="left" title="MySQL" alt="MySQL" width="22px" src="https://img.icons8.com/ios-filled/50/E48E00/mysql-logo.png" />
 <img align="left" title="Postgresql" alt="Postgresql" width="22px" src="https://img.icons8.com/color/48/000000/postgreesql.png" />
@@ -46,11 +52,13 @@
 ### Tests:
 <img align="left" title="Jest&Enzyme" alt="Jest&Enzyme" width="70px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRD1m0e6hPOrO5yYSvRjYEwB-FT2tcB9zC5URCm7fM4CF-tDtwaK07wW3tUd9zQKOFf1q8&usqp=CAU" />
 <img align="left" title="Testing Library" alt="Testing Library" width="70px" src="https://miro.medium.com/max/1000/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" />
+
 </br>
 
 ### Another Tools:
 <img align="left" title="Babel" alt="Babel" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMTaDdKGrfuQKZZk-m4IFpxFhEpY_JC_mZw&usqp=CAU" />
-<img align="left" title="Webpack" alt="Webpack" width="50px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRrYd4-M-7PM4Vk9F1q_nsZG3v9lZk4kJN6KA&usqp=CAU" />
+<img align="left" title="NPM Library" alt="NPM Library" width="55px" src="https://livecodestream.dev/post/publish-your-first-node-library-using-npm/featured_huf4ccd09dd756afcbac5f8896d9a60c65_19260_680x0_resize_q75_box.jpg" />
+<img align="left" title="Storybook" alt="Storybook" width="55px" src="https://miro.medium.com/max/1200/1*I1bJuD1D5G2FvWP5IVyyFQ.png" />
 
 </br>
 
