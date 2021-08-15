@@ -21,6 +21,12 @@
 
 </br>
 
+### Libraries:
+<img align="left" title="React" alt="React" width="22px" src="https://img.icons8.com/office/16/000000/react.png" />
+<img title="Solid" alt="solid" width="22px" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1629061344/gxwpg1uhcnqq8kctdmgg.jpg" />
+
+</br>
+
 ### Cross Platform:
 <img align="left" title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/468BFF/ionic.png" />
 <img align="left" title="React Native" alt="React Native" width="22px" src="https://img.icons8.com/color/48/000000/react-native.png" />
