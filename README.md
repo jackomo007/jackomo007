@@ -1,7 +1,7 @@
 <p align="center"><img width="700" height ="300" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1609026547/v6n1mafwl5cw53bmmt7u.jpg"></p>
 
 ### 👋 Greetings and welcome, i hope that with my projects you learn something new or serve as inspiration to build something great. 
-### 🔭 I’m currently working with <img title="Ionic" alt="Ionic" width="22px" src="https://img.icons8.com/ios-filled/50/468BFF/ionic.png" />
+### 🔭 I’m currently working with Microfrontends using Webpack 5 + React
 ### 🌱 I’m currently learning about  <img title="Solid" alt="solid" width="22px" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1629061344/gxwpg1uhcnqq8kctdmgg.jpg" />
 ### 🎯 My goal to learn the next year will be  <img title="Swift" alt="swift" width="22px" src="https://img.icons8.com/color/48/000000/swift.png" />
 
