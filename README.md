@@ -2,7 +2,7 @@
 
 ### 👋 Greetings and welcome, i hope that with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with  React + Storybook
-### 🌱 I’m currently learning about   <img title="NEXTJS" alt="nextjs" width="22px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/square_256/nextjs.png" />
+### 🌱 I’m currently learning about   <img title="Remix" alt="remix" width="60px" src="https://i.ytimg.com/vi/4dOAFJUOi-s/maxresdefault.jpg" />
 ### 🎯 My goal to learn the next year will be  <img title="Swift" alt="swift" width="22px" src="https://img.icons8.com/color/48/000000/swift.png" />
 
 ### Languages:
