@@ -63,8 +63,9 @@
 
 ### Another Tools:
 <img align="left" title="Babel" alt="Babel" width="55px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlMTaDdKGrfuQKZZk-m4IFpxFhEpY_JC_mZw&usqp=CAU" />
-<img align="left" title="NPM Library" alt="NPM Library" width="55px" src="https://livecodestream.dev/post/publish-your-first-node-library-using-npm/featured_huf4ccd09dd756afcbac5f8896d9a60c65_19260_680x0_resize_q75_box.jpg" />
+<img align="left" title="NPM Library" alt="NPM Library" width="30px" src="https://static.npmjs.com/58a19602036db1daee0d7863c94673a4.png" />
 <img align="left" title="Storybook" alt="Storybook" width="55px" src="https://miro.medium.com/max/1200/1*I1bJuD1D5G2FvWP5IVyyFQ.png" />
+<img align="left" title="Prisma" alt="Prisma" width="80px" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1645113794/whqacvl4s9xcxql3gkvp.png" />
 
 </br>
 
