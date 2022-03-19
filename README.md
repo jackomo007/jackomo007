@@ -2,7 +2,7 @@
 
 ### 👋 Greetings and welcome, i hope that with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with  React + Storybook
-### 🌱 I’m currently learning about   <img title="InertiaJs" alt="inertiaJs" width="20px" src="https://avatars.githubusercontent.com/u/47703742?s=200&v=4" />
+### 🌱 I’m currently learning about   <img title="FastAPI" alt="FastAPI" width="20px" src="https://fastapi.tiangolo.com/img/icon-white.svg" />
 ### 🎯 My goal to learn the next year will be  <img title="Swift" alt="swift" width="22px" src="https://img.icons8.com/color/48/000000/swift.png" />
 
 ### Languages:
