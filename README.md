@@ -18,7 +18,8 @@
 <img align="left" title="Vue" alt="vue" width="22px" src="https://img.icons8.com/color/48/000000/vue-js.png" />
 <img align="left" title="Angular" alt="angular" width="22px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
 <img align="left" title="NEXTJS" alt="nextjs" width="22px" src="https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/square_256/nextjs.png" />
- <img title="Remix" alt="remix" width="60px" src="https://i.ytimg.com/vi/4dOAFJUOi-s/maxresdefault.jpg" />
+<img title="Remix" alt="remix" width="60px" src="https://i.ytimg.com/vi/4dOAFJUOi-s/maxresdefault.jpg" />
+<img title="FastAPI" alt="FastAPI" width="20px" src="https://fastapi.tiangolo.com/img/icon-white.svg" />
 
 </br>
 
