@@ -28,8 +28,6 @@
 <img align="left" title="React" alt="React" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img title="Solid" alt="solid" width="22px" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1629061344/gxwpg1uhcnqq8kctdmgg.jpg" />
 
-</br>
-
 ### Cross Platform:
 <img align="left" title="Ionic" alt="Ionic" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 <img title="React Native" alt="React Native" width="22px" src="https://img.icons8.com/color/48/000000/react-native.png" />
@@ -37,32 +35,22 @@
 <img title="Flutter" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" title="Vue Native" alt="vue-native" width="22px" src="https://vue-native.io/images/logo.png" />
 
-</br>
-
 ### Microfrontends:
 <img align="left" width="22px"  title="Webpack" alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img title="SingleSPA" alt="SingleSPA" width="120px" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1623247016/dudahviqalyvx6rkuva6.png" />
-
-</br>
 
 ### Databases:
 <img align="left" title="MySQL" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img title="Postgresql" alt="Postgresql" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 <img title="MongoDB" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-          
-</br>
-
+     
 ### Data Query:
 <img align="left" title="Apollo" alt="Apollo" width="22px" src="https://img.icons8.com/color/48/000000/apollo.png" />
 <img title="GraphQL" alt="GraphQL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 
-</br>
-
 ### Tests:
 <img align="left" title="Jest&Enzyme" alt="Jest&Enzyme" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />          
 <img title="Testing Library" alt="Testing Library" width="70px" src="https://miro.medium.com/max/1000/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" />
-
-</br>
 
 ### Another Tools:
 <img align="left" title="Babel" alt="Babel" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
