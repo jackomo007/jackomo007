@@ -35,6 +35,8 @@
 <img title="Flutter" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" title="Vue Native" alt="vue-native" width="22px" src="https://vue-native.io/images/logo.png" />
 
+</br>
+
 ### Microfrontends:
 <img align="left" width="22px"  title="Webpack" alt="Webpack" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" />
 <img title="SingleSPA" alt="SingleSPA" width="120px" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1623247016/dudahviqalyvx6rkuva6.png" />
