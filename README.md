@@ -59,7 +59,8 @@
 <img align="left" title="NPM Library" alt="NPM Library" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align="left" title="Storybook" alt="Storybook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" />
 <img align="left" title="Prisma" alt="Prisma" width="80px" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1645113794/whqacvl4s9xcxql3gkvp.png" />
-
+<img align="left" title="Firebase" alt="Firebase" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+          
 </br>
 
 ### You can find me here:
