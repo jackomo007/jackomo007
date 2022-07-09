@@ -5,6 +5,16 @@
 ### 🌱 I’m currently learning about    <img title="FastAPI" alt="FastAPI" width="20px" src="https://fastapi.tiangolo.com/img/icon-white.svg" />
 ### 🎯 My goal to learn the next will be  <img title="NestJs" alt="NestJs" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 
+</br>
+
+<div align="center" style="width:100%">
+  <a href="https://github.com/jackomo007">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=jackomo007&show_icons=true&theme=radical&title_color=C08200&text_color=09B43A&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jackomo007&layout=compact&langs_count=7&theme=radical&&title_color=C08200&text_color=FFFFFF&custom_title=Power%20Stones"/>
+</div>
+
+</br>
+
 ### Languages:
 <img align="left" title="Php" alt="php" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
 
