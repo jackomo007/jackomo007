@@ -2,8 +2,8 @@
 
 ### 👋 Greetings and welcome, I hope with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with  React + Storybook + React Testing Library
-### 🌱 I’m currently learning about    <img title="FastAPI" alt="FastAPI" width="20px" src="https://fastapi.tiangolo.com/img/icon-white.svg" />
-### 🎯 My goal to learn the next will be  <img title="NestJs" alt="NestJs" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+### 🌱 I’m currently learning about *
+### 🎯 My goal to learn next will be  <img title="NestJs" alt="NestJs" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 
 </br>
 
