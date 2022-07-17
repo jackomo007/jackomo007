@@ -2,7 +2,7 @@
 
 ### 👋 Greetings and welcome, I hope with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with  React + Storybook + React Testing Library
-### 🌱 I’m currently learning about *
+### 🌱 I’m currently learning about Testing Next.js Apps with Jest, Testing Library and Cypress
 ### 🎯 My goal to learn next will be  <img title="NestJs" alt="NestJs" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 
 </br>
