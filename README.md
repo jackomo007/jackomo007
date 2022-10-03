@@ -77,3 +77,7 @@
 <a href="https://www.facebook.com/JEAL47" target="_blank"><img align="left" title="Facebook" alt="facebook" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" /></a>
 <a href="https://www.linkedin.com/in/jose-prieto-developer" target="_blank"><img align="left" title="Linkedin" alt="linkedin" width="22px" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+
+</br>
+</br>
+<img src="https://holopin.io/api/user/board?user=jackom0" />
