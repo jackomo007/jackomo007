@@ -63,6 +63,7 @@
 ### Tests:
 <img align="left" title="Jest&Enzyme" alt="Jest&Enzyme" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />          
 <img title="Testing Library" alt="Testing Library" width="70px" src="https://miro.medium.com/max/1000/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" />
+<img title="Cypress" alt="Cypress" width="30px" src="https://pics.freeicons.io/uploads/icons/png/3556671901536211770-512.png" />
 
 ### Another Tools:
 <img align="left" title="Babel" alt="Babel" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" />
