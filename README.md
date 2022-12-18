@@ -1,9 +1,9 @@
 <p align="center"><img width="700" height ="300" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1609026547/v6n1mafwl5cw53bmmt7u.jpg"></p>
 
 ### 👋 Greetings and welcome, I hope with my projects you learn something new or serve as inspiration to build something great. 
-### 🔭 I’m currently working with  React + Storybook + React Testing Library
-### 🌱 I’m currently learning about Testing Next.js Apps with Jest, Testing Library and Cypress
-### 🎯 My goal to learn next will be  <img title="NestJs" alt="NestJs" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+### 🔭 I’m currently working with Strapi + React
+### 🌱 I’m currently learning about Nest Js and Cypress
+### 🎯 My goal to learn next will be Nest Js Microservices
 
 </br>
 
