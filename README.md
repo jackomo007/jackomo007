@@ -44,6 +44,7 @@
 <img align="left" title="Quasar" alt="Quasar" width="22px" src="https://forum.quasar-framework.org/assets/uploads/profile/1-profileavatar.png" />
 <img title="Flutter" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" title="Vue Native" alt="vue-native" width="22px" src="https://vue-native.io/images/logo.png" />
+<img width="22" height="22" loading="lazy" title="Electron" alt="electron"  src="https://github.com/electron.png?s=20">
 
 </br>
 
