@@ -61,6 +61,11 @@
 <img align="left" title="Apollo" alt="Apollo" width="22px" src="https://img.icons8.com/color/48/000000/apollo.png" />
 <img title="GraphQL" alt="GraphQL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
 
+### State:
+<img align="left" title="Redux" alt="Redux" width="22px" src="https://img.icons8.com/color/48/000000/redux.png" />
+<img title="ReactQuery" alt="ReactQuery" width="22px" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+<img title="Zustand" alt="Zustand" width="55px" src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.jpg" />
+
 ### Tests:
 <img align="left" title="Jest&Enzyme" alt="Jest&Enzyme" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />          
 <img title="Testing Library" alt="Testing Library" width="70px" src="https://miro.medium.com/max/1000/1*FdcfXXlYDEDNGToFjA_B4w.jpeg" />
