@@ -55,7 +55,9 @@
 ### Databases:
 <img align="left" title="MySQL" alt="MySQL" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 <img title="Postgresql" alt="Postgresql" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-<img title="MongoDB" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" title="MongoDB" alt="MongoDB" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img title="Redis" alt="Redis" width="22px" src="https://pbs.twimg.com/profile_images/1427657682626961410/aJp7nOdu_400x400.jpg" />
+
      
 ### Data Query:
 <img align="left" title="Apollo" alt="Apollo" width="22px" src="https://img.icons8.com/color/48/000000/apollo.png" />
