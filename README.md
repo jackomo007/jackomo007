@@ -2,8 +2,8 @@
 
 ### 👋 Greetings and welcome, I hope with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with React Native
-### 🌱 I’m currently learning about Nest Js and Cypress
-### 🎯 My goal to learn next will be Nest Js Microservices
+### 🌱 I’m currently learning about Nest Js Microservices and Swift
+### 🎯 My goal to learn next will be Python Microservices
 
 </br>
 
