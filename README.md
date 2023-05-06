@@ -65,7 +65,7 @@
 
 ### State:
 <img align="left" title="Redux" alt="Redux" width="22px" src="https://img.icons8.com/color/48/000000/redux.png" />
-<img title="ReactQuery" alt="ReactQuery" width="22px" src="https://react-query-v3.tanstack.com/_next/static/images/emblem-light-628080660fddb35787ff6c77e97ca43e.svg" />
+<img title="ReactQuery" alt="ReactQuery" width="75px" src="https://github.com/tannerlinsley/react-query/raw/main/media/repo-dark.png" />
 <img title="Zustand" alt="Zustand" width="55px" src="https://raw.githubusercontent.com/pmndrs/zustand/main/bear.jpg" />
 
 ### Tests:
