@@ -41,7 +41,7 @@
 ### Cross Platform:
 <img align="left" title="Ionic" alt="Ionic" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
 <img title="React Native" alt="React Native" width="22px" src="https://img.icons8.com/color/48/000000/react-native.png" />
-<img align="left" title="Quasar" alt="Quasar" width="22px" src="https://forum.quasar-framework.org/assets/uploads/profile/1-profileavatar.png" />
+<img align="left" title="Quasar" alt="Quasar" width="22px" src="https://avatars.githubusercontent.com/u/23064371?s=200&v=4" />
 <img title="Flutter" alt="Flutter" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" title="Vue Native" alt="vue-native" width="22px" src="https://vue-native.io/images/logo.png" />
 <img width="22" height="22" loading="lazy" title="Electron" alt="electron"  src="https://github.com/electron.png?s=20">
