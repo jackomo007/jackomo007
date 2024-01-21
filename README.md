@@ -2,7 +2,7 @@
 
 ### 👋 Greetings and welcome, I hope with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with React, Jest and RTL
-### 🌱 I’m currently learning about Nest Js Microservices and Swift
+### 🌱 I’m currently learning about Swift and C#
 ### 🎯 My goal to learn next will be Python Microservices
 
 </br>
