@@ -2,7 +2,7 @@
 
 ### 👋 Greetings and welcome, I hope with my projects you learn something new or serve as inspiration to build something great. 
 ### 🔭 I’m currently working with NextJs, Jest and DatoCMS
-### 🌱 I’m currently learning about Swift
+### 🌱 I’m currently learning about Swift and AWS
 ### 🎯 My goal to learn next will be C#
 
 </br>
