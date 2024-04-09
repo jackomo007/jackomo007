@@ -30,6 +30,7 @@
 <img title="NEXTJS" alt="nextjs" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
 <img align="left" title="Remix" alt="remix" width="60px" src="https://i.ytimg.com/vi/4dOAFJUOi-s/maxresdefault.jpg" />
 <img title="FastAPI" alt="FastAPI" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+<img title="Astro" alt="Astro" width="22px" src="https://astro.build/assets/press/astro-icon-light-gradient.svg" />
 
 </br>
 
