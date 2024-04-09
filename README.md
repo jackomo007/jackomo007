@@ -22,7 +22,7 @@
 </br>
 
 ### Frameworks:
-<img align="left" title="Laravel" alt="laravel" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" />
+<img align="left" title="Laravel" alt="laravel" width="22px" src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*1QQXo5vHRUwi8Z7VaBIYnA.png" style="border-radius: 50%;" />
 <img title="Vue" alt="vue" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
 <img align="left" title="Angular" alt="angular" width="22px" src="https://img.icons8.com/color/48/000000/angularjs.png" />
 <img title="NEXTJS" alt="nextjs" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" />
