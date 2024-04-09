@@ -18,6 +18,8 @@
 <img align="left" title="Javascript" alt="javascript" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img align="left" title="Python" alt="python" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" title="Dart" alt="dart" width="22px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" title="Swift" alt="dart" width="28px" src="https://bignerdranch.com/wp-content/uploads/2021/03/SwiftUI-Logo-copy.jpg" />
+
 
 </br>
 
