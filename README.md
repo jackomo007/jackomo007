@@ -1,4 +1,4 @@
-<p align="center"><img width="700" height ="300" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1609026547/v6n1mafwl5cw53bmmt7u.jpg"></p>
+<p align="center"><img width="700" height ="500" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/v1713051115/briy1jlsdbdyhvmbh2s9.jpg"></p>
 
 ### 👋 Greetings and welcome, I hope with my projects you learn something new or serve as inspiration to build something great. 
 
