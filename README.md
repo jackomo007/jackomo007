@@ -1,14 +1,6 @@
 <p align="center"><img height ="500" src="https://res.cloudinary.com/dvm6sgg1h/image/upload/w_1000,ar_16:9,c_fill,g_auto,e_sharpen/v1772152126/hsfwbgcvjl1z4qpeoxnm.png"></p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=jackomo007&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=jackomo007&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=jackomo007&theme=slateorange&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jackomo007&theme=slateorange&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-</div>
 
 🔭 I’m currently working on improve software development process<br>🌱 I’m currently learning integration process with AI<br>💬 Ask me about Programming, AI, Videogames, Music and Anime.
 
